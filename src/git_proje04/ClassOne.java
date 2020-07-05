@@ -4,7 +4,9 @@ public class ClassOne {
 	
 	public void main(String [] args) {
 		
-	System.out.println("ilk commit local masterdan");	
+	System.out.println("ilk commit local masterdan");
+			System.out.println("ilk commit local masterdan");	
+
 	}
 
 }
